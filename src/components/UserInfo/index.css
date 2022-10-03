@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+
+.profile-container {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profile-pic {
+  width: 30%;
+}

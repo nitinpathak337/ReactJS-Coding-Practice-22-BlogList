@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.title-date-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
